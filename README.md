@@ -44,17 +44,17 @@ Contoh struktur direktori sebagai *berikut:*
 - Untuk cara sinkronisasi hasil _fork_ dengan _upstream_, silahkan baca [Configure a remote for a fork](https://help.github.com/en/articles/configuring-a-remote-for-a-fork) dan [Syncing a fork](https://help.github.com/en/articles/syncing-a-fork).
 
 
-## Tools Pendukung ⚙️
+## Software Pendukung ⚙️
 
+- [Python](https://www.python.org/downloads/) 🐍 📥
 - [Visual Studio Code](https://code.visualstudio.com) 📥
-
+- [Flowgorithm](http://www.flowgorithm.org/download/index.html) 📥
 
 ## Modul Praktikum 👁‍🗨
 
-![0](
-    Modul Praktikum Git & Github #0 (Intro/Setup) :octocat:
-Modul Prakikum Git & Github #1 (workflow)
-Modul Praktikum Git & Github #2 (Revision Selection)
+- [Modul Praktikum Git & Github #0 (Intro/Setup) :octocat:](/Panduan-GIT/Praktikum-0-Git-%26-Github.md)
+- [Modul Prakikum Git & Github #1 (workflow)](Panduan-GIT/Praktikum-1-Berkontribusi-di-Proyek.md)
+- [Modul Praktikum Git & Github #2 (Revision Selection](Panduan-GIT/Praktikum-2-Simpan-Perubahan-Revisi-dengan-Git-Commit.md)
 
 ## Referensi 🕵️‍♂️
 
