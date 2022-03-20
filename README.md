@@ -55,7 +55,7 @@ Contoh struktur direktori sebagai *berikut:*
 - [Modul Praktikum Git & Github #0 (Intro/Setup) :octocat:](/Panduan-GIT/Praktikum-0-Git-%26-Github.md)
 - [Modul Prakikum Git & Github #1 (workflow)](Panduan-GIT/Praktikum-1-Berkontribusi-di-Proyek.md)
 - [Modul Praktikum Git & Github #2 (Revision Selection](Panduan-GIT/Praktikum-2-Simpan-Perubahan-Revisi-dengan-Git-Commit.md)
-- [Modul Praktikum Flowgorithm](https://yysoftxx.gitbook.io/m1-flowcart-and-flowgorithm/) 🆕
+- [Writing an algorithm using Flowgorithm](https://yysoftxx.gitbook.io/m1-flowcart-and-flowgorithm/) 🆕
 
 ## Referensi 🕵️‍♂️
 
